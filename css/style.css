@@ -92,6 +92,14 @@ body {
     text-align: center;
 }
 
+h1{
+    font-size: 30px;
+    font-family: 'Baloo Bhai 2', cursive;
+    text-align: center;
+    color: rgb(104, 104, 243);
+    text-shadow: 5px 5px 10px rgb(68, 67, 67);
+}
+
 .notice {
     margin: 30px;
     padding: 10px;
